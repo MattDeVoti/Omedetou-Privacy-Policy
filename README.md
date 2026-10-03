@@ -1,6 +1,6 @@
 # Privacy Policy — Omedetou
 
-_Last updated: 5 August 2026_
+_Last updated: October 2, 2026_
 
 Omedetou is a Japanese study app. This policy explains, in plain terms, what the
 app does and does not do with your information.
@@ -18,7 +18,7 @@ There is exactly one thing you can choose to send, and it is described below.
 Everything you do in the app is stored on your device and nowhere else:
 
 - Your study progress, review schedule, test results and grades
-- Flashcard checkmarks, favourites and "needs work" marks
+- Flashcard checkmarks, favorites and "needs work" marks
 - Custom lessons you build
 - Settings: appearance, text size, audio and reminder preferences
 - Game unlocks and high scores
@@ -33,7 +33,20 @@ database — the developer cannot read it, and it is governed by
 [Apple's privacy policy](https://www.apple.com/legal/privacy/). You can turn it
 off at any time.
 
-## Send Feedback — the one thing that is sent
+## Speaking a word
+
+If you search the dictionary or answer audio flashcards by voice, Apple's speech
+recognition turns what you say into text. It runs on your device when the Japanese
+language pack is installed; otherwise Apple processes the audio on its servers,
+under [Apple's privacy policy](https://www.apple.com/legal/privacy/). The app
+itself never stores or sends your voice, and your pronunciation is never scored.
+
+## Purchases
+
+Purchases and subscriptions are handled by Apple through the App Store. The app
+asks Apple which plan you have; the developer never sees your payment details.
+
+## Send Feedback — the one thing the app sends
 
 The app has a **Send Feedback** screen. If, and only if, you write a message
 there and tap Submit, the following is sent to the developer:
@@ -52,7 +65,9 @@ it to the developer's email and does not publish it. Please **do not include
 personal details** in the message — there is a reminder to that effect on the
 screen itself.
 
-If you never open that screen, the app makes no network requests at all.
+Apart from Apple's own services described above (the App Store, iCloud sync if
+you turn it on, and speech recognition), the app connects to the internet only to
+send feedback you write, and when you tap a link that opens in your browser.
 
 ## Children
 
