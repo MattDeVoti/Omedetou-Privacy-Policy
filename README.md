@@ -86,7 +86,8 @@ device permanently — use **Backup & Restore** first if you want to keep it.
 If this policy changes, the updated version will be published here and the date
 above will change.
 
-## Contact
+## Contact and support
 
-Questions about this policy can be sent through the **Send Feedback** screen in
-the app.
+For help with the app, or questions about this policy, email the developer at
+**mattdevoti1@optonline.net**. You can also use the **Send Feedback** screen in the app,
+but those messages are anonymous, so they can't be answered.
